@@ -42,6 +42,20 @@
 	},
 	"Props" :
 	{
+		"singularities": [
+			{
+				"type": "whiteHole",
+				"uniqueID": "GAB WH",
+				"pairedSingularity": "TH SHORTCUT 3",
+				"horizonRadius": 0.05,
+				"position": {"x":-11.6766,"y": 2.1185,"z": -9.4423},
+				"isRelativeToParent": true
+			}
+		],
+
+
+
+
 		"dialogue":
 		[
 		{
